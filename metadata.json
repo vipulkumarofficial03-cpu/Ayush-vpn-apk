@@ -1,0 +1,6 @@
+{
+  "name": "Ayush Ka VPN",
+  "description": "High-speed VPN with global country servers, anti-jitter gaming and 4K streaming optimization, and custom per-app split tunneling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

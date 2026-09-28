@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ayush Ka VPN</string>
+    <string name="vpn_service_name">Ayush Ka VPN Service</string>
+    <string name="notification_channel_name">VPN Connection Status</string>
+    <string name="notification_channel_desc">Shows ongoing VPN status and bandwidth</string>
+</resources>

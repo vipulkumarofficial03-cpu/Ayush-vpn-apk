@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="108" height="108">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A2E1A"/>
+      <stop offset="100%" stop-color="#04140B"/>
+    </linearGradient>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3300E676"/>
+      <stop offset="100%" stop-color="#0500E676"/>
+    </linearGradient>
+  </defs>
+  <rect width="108" height="108" fill="url(#bg)"/>
+  <!-- Grid -->
+  <path d="M18 0v108 M36 0v108 M54 0v108 M72 0v108 M90 0v108 M0 18h108 M0 36h108 M0 54h108 M0 72h108 M0 90h108" stroke="#00E676" stroke-opacity="0.12" stroke-width="0.8"/>
+  <!-- Shield -->
+  <path d="M54 22 L80 30 C80 61 54 82 54 86 C54 82 28 61 28 30 Z" fill="url(#shieldGrad)" stroke="#00E676" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Signal dot -->
+  <circle cx="54" cy="26" r="2.5" fill="#69F0AE"/>
+  <!-- A -->
+  <path d="M41 35 L47 35 L54 71 L47.5 71 L45.5 60 L36.5 60 L34.5 71 L28 71 Z M41 43 L38 54 L44 54 Z" fill="#FFFFFF"/>
+  <!-- K -->
+  <path d="M56 35 L62.5 35 L62.5 71 L56 71 Z" fill="#00E676"/>
+  <path d="M61 53 L73 35 L80 35 L66.5 52 Z" fill="#00E676"/>
+  <path d="M64 48 L80 71 L72.5 71 L59 51 Z" fill="#69F0AE"/>
+  <!-- Pulse line -->
+  <path d="M37 76 L45 76 L48 73 L51 79 L55 75 L60 78 L63 76 L71 76" stroke="#00E676" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
